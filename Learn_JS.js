@@ -1,3 +1,4 @@
+// dem so nguyen to trong mang gom n so nguyen duong 
 function isPrime(num){
     if (num < 2){
         return false;
