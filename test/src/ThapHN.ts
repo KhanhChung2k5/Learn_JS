@@ -13,7 +13,7 @@ function solveHanoi(
         move(from, to);
         // di chuyen dia con lai qua cot C
         // di chuyen n-1 dia tu COT B sang cot C
-        solveHanoi(count - 1, other, from, to, move);
+        solveHanoi(count - 1, other, to, from, move);
     }
 }
 var movecount = 0;
