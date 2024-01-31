@@ -30,4 +30,4 @@ for (let i = 0; i < n; i++){
 }
 isPrime(arr);
 let countSNT = countPrime(arr);
-console.log("So nguye to co trong mang la: ${count}");
+console.log("So nguye to co trong mang la: ${count}")

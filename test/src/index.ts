@@ -1,7 +1,7 @@
 import * as readlineSync from 'readline-sync';
 // mang a co m dong n cot 
 // mang b co p dong k cot 
-let m: number = parseInt(readlineSync.question("Nhap so dong cua mang a:"));
+let m: number = parseInt(readlineSync.uestion("Nhap so dong cua mang a:"));q
 let n: number = parseInt(readlineSync.question("Nhap so cot cua mang a: "));
 let p: number = parseInt(readlineSync.question("Nhap so dong cua mang b:"));
 let k: number = parseInt(readlineSync.question("Nhap so cot cua mang b: "));
