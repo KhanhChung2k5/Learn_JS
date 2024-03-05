@@ -70,7 +70,6 @@ int main(){
     // in ra so lon nhat cua hang doi
     cout << arr[q.front()] << " ";
 
-    }
 
 
 
